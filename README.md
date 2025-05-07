@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 BIENVENIDOS!!!!!!!!</h1>
+    <h1 BIENVENIDOS!!!!!!!!,</h1>
 </body>
-</html>
+</html> 
+<h2,Hacemos servicios de:
+    •Semipermanente
+    •Esculpidas en gel 
+    •Sotf gel</h2
+
