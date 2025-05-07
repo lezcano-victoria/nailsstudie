@@ -12,5 +12,5 @@
 <h2,Hacemos servicios de:
     •Semipermanente
     •Esculpidas en gel 
-    •Sotf gel</h2
+    •Sotf gel </h2
 
